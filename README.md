@@ -1,7 +1,7 @@
 # Employee Management System
 A Java-based Employee Management System connected 
 to MYSQL that allows user to manage employee records 
-through a simple console apllication.
+through a simple console application.
 
 # Features
 -Add Employee
@@ -10,8 +10,8 @@ through a simple console apllication.
 -Update Employee
 -Delete Employee
 -Input validation
--Delete confiramtion
--Update confiramtion
+-Delete confirmtion
+-Update confirmation
 -MySQL database integration
 
 # Technologies Used
