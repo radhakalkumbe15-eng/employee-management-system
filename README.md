@@ -59,8 +59,8 @@ Employee fields include:
 
 
 ## Application Screenshot
-![Employee Management System]
-(employee-management-system.png)
+![Employee Management System](
+employee-management-system.png)
 
 # Author
 Radha Sukhdeo Kalkumbe
