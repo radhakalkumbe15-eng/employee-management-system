@@ -57,6 +57,11 @@ Employee fields include:
 5.Update the database connction details in DBConnection.java.
 6.Run Main.java.
 
+
+## Application Screenshot
+![Employee Management System]
+(employee-management-system.png)
+
 # Author
 Radha Sukhdeo Kalkumbe
 
